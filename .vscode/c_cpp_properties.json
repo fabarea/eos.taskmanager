@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/opt/eosio.cdt/1.6.3/include/eosiolib",
+                "/usr/opt/eosio.cdt/1.6.3/include/eosiolib/core",
+                "/usr/opt/eosio.cdt/1.6.3/include/eosiolib/contracts",
+                "/usr/opt/eosio.cdt/1.6.3/include/eosiolib/contracts/eosio"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
